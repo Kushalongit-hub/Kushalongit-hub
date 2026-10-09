@@ -1,93 +1,59 @@
-<!-- KUSHAL / THE ASCII ARCHIVE — GitHub profile README -->
+<!--
+  KUSHAL / THE ASCII ARCHIVE
+  All animated art is hosted in ./assets and rendered as regular GIF images.
+  In GitHub's profile README, only images animate; text links remain clickable.
+-->
+
 <div align="center">
-  <a href="https://kushalmanvekar.runs-on.dev/"><img src="assets/ascii-world.svg" alt="Midnight ASCII landscape with an ember glow — Kushal M Anvekar" width="100%" /></a>
+  <a href="https://kushalmanvekar.runs-on.dev/"><img src="assets/ascii-world.gif" alt="Animated dark ASCII landscape with drifting code glyphs and glowing ember, identifying Kushal M Anvekar" width="100%"></a>
   <sub><code>an archive of things built, broken, understood, and built again.</code></sub>
 </div>
 
 <br>
 
-<img src="assets/01-identity.svg" alt="cat identity.log" width="100%" />
+<img src="assets/identity.gif" alt="Animated terminal identity panel for Kushal M Anvekar, Bengaluru, AI ML and open source" width="100%">
+
+> Building useful software at the intersection of AI, security, developer tools, and independent research. Computer Science diploma student at M. S. Ramaiah Polytechnic.
+
+<img src="assets/project-archive.gif" alt="Animated terminal directory scanning five projects: Sentinel, Bedrock, Vakil AI, MESH and OpenConnect" width="100%">
+
+| System | Artifact notes | Source |
+|:---|:---|:---|
+| `01 / sentinel` | Local-first security tooling for developers and agent workflows | [Explore ↗](https://github.com/Kushalongit-hub/Sentinel) |
+| `02 / bedrock` | Portable, model-agnostic agent runtime with replaceable providers, memory and policy boundaries | [Explore ↗](https://github.com/Kushalongit-hub?tab=repositories&q=Bedrock) |
+| `03 / vakil-ai` | Open-source legal intelligence and retrieval for Indian law | [Explore ↗](https://github.com/Kushalongit-hub/Vakil-ai) |
+| `04 / mesh` | Decentralized coordination and task infrastructure for AI agents | [Explore ↗](https://github.com/Kushalongit-hub?tab=repositories&q=Mesh) |
+| `05 / openconnect` | Tools for remote development access and connectivity | [Explore ↗](https://github.com/Kushalongit-hub?tab=repositories&q=OpenConnect) |
+
+<img src="assets/research.gif" alt="Animated research log for spatial intelligence, mask-free image editing and agent systems" width="100%">
 
 ```text
-$ cat identity.log
-
-name       : Kushal M Anvekar
-location   : Bengaluru, India
-education  : Computer Science (AI/ML) · M.S. Ramaiah Polytechnic
-focus      : AI systems / software engineering / open source
-currently  : exploring intelligent agents, security, and applied research
-availability: open to technology internships & collaboration
+$ cat research.notes
+  spatial intelligence    -> understanding the physical structure of scenes
+  image editing / MUTE    -> exploring localized edits and preservation
+  agent infrastructure   -> memory, execution policy and tool boundaries
 ```
 
-> I build software and put it to work. From model experiments to local-first tools, agent runtimes, and systems that connect the pieces.
-
-<img src="assets/02-work.svg" alt="ls -la ~/projects" width="100%" />
-
-```text
-~/projects
-│
-├── sentinel/       local-first security intelligence for developers & agents
-├── vakil-ai/       open-source legal research and drafting assistant
-├── openconnect/    remote access to a personal development environment
-├── mesh/           task coordination & reputation for collaborating AI agents
-├── bedrock/        model-agnostic runtime for specialized AI systems
-└── ai-video-editor/ experiments in ML-assisted media workflows
-```
-
-| Artifact | Field notes |
-|:--|:--|
-| **[Sentinel](https://github.com/Kushalongit-hub/Sentinel)** | Local-first developer security tooling · Rust, Ratatui, SQLite, MCP |
-| **[Vakil AI](https://github.com/Kushalongit-hub/Vakil-ai)** | Legal research & drafting for Indian law · RAG, BNS/BNSS/BSA |
-| **[OpenConnect](https://github.com/Kushalongit-hub?tab=repositories&q=OpenConnect)** | Remote desktop and terminal access · Node.js, Socket.IO, Go, Tailscale |
-| **[MESH](https://github.com/Kushalongit-hub?tab=repositories&q=Mesh)** | Agent task markets and on-chain coordination · FastAPI, Solidity, Monad |
-| **[Bedrock](https://github.com/Kushalongit-hub?tab=repositories&q=Bedrock)** | Portable agent kernel · Python, model routing, policies, memory |
-
-<img src="assets/03-research.svg" alt="cat research notes" width="100%" />
-
-```text
-[RESEARCH LOG]                     status: in progress
-
-01  SPATIAL INTELLIGENCE
-    one image -> spatial relationships, depth, physical scene structure
-
-02  MUTE / MASK-FREE UNIFIED TOKEN EDITING
-    localized image edits -> preserve the surrounding world
-
-03  AGENT INFRASTRUCTURE
-    memory, execution policy, tool boundaries, interoperable runtimes
-```
-
-<img src="assets/04-toolkit.svg" alt="tree toolkit" width="100%" />
+<img src="assets/toolkit.gif" alt="Animated terminal toolkit showing Python, Java, JavaScript, AI ML and infrastructure tools" width="100%">
 
 ```text
 ~/toolkit
-├── languages       Python · Rust · Java · JavaScript · SQL
-├── intelligence    PyTorch · LLMs · NLP · RAG · LangGraph
-├── application     FastAPI · Node.js · Socket.IO
-├── infrastructure  Docker · Linux / WSL · GitHub Actions · GCP
-└── experiments     NVIDIA NIM · MCP · n8n · Solidity
+├── language       Python / Java / JavaScript / SQL
+├── intelligence   PyTorch / NLP / RAG / LLMs
+├── backend        FastAPI / Node.js
+└── infrastructure Docker / Linux / WSL / Git / MCP
 ```
 
-<img src="assets/05-links.svg" alt="cat contact.txt" width="100%" />
-
-```text
-$ cat contact.txt
-
-status     : open to meaningful work
-base       : Bengaluru, India
-interests  : internships / research / open-source / interesting problems
-```
+<img src="assets/contact.gif" alt="Animated terminal contact and uplink list" width="100%">
 
 <div align="center">
-  <a href="https://kushalmanvekar.runs-on.dev/">portfolio</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Kushalongit-hub">github</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/kushal-m-anvekar/">linkedin</a> &nbsp;·&nbsp;
-  <a href="mailto:kushalonmsrit@gmail.com">email</a>
+
+[**PORTFOLIO**](https://kushalmanvekar.runs-on.dev/) &nbsp; · &nbsp; [**GITHUB**](https://github.com/Kushalongit-hub) &nbsp; · &nbsp; [**LINKEDIN**](https://www.linkedin.com/in/kushal-m-anvekar/)
+
 </div>
 
 <br>
 
-<div align="center">
-  <code>visitor@kushal:~$ echo "built with curiosity. shipped with intention."</code><br>
-  <sub>the archive is never finished. ▌</sub>
-</div>
+<a href="https://kushalmanvekar.runs-on.dev/"><img src="assets/operator-signal.gif" alt="Animated terminal typing: building systems, breaking assumptions, learning in public" width="100%"></a>
+
+<div align="center"><sub><code>the archive is never finished. ▌</code></sub></div>
