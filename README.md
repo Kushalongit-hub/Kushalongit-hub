@@ -1,21 +1,16 @@
-<!--
-  KUSHAL / THE ASCII ARCHIVE
-  All animated art is hosted in ./assets and rendered as regular GIF images.
-  In GitHub's profile README, only images animate; text links remain clickable.
--->
+<!-- Animated ASCII castle artwork is hosted in ./assets. -->
 
 <div align="center">
-  <a href="https://kushalmanvekar.runs-on.dev/"><img src="assets/ascii-world.gif" alt="Animated dark ASCII landscape with drifting code glyphs and glowing ember, identifying Kushal M Anvekar" width="100%"></a>
-  <sub><code>an archive of things built, broken, understood, and built again.</code></sub>
+  <img src="assets/ascii-castle.gif" alt="Animated dense ASCII castle courtyard inspired by the reference video, with shaded stone towers, swaying grass and flowers, detailed roaming knights and travellers, gate traffic, torchlight and a bonfire. Kushal M Anvekar." width="100%">
 </div>
 
 <br>
 
-<img src="assets/identity.gif" alt="Animated terminal identity panel for Kushal M Anvekar, Bengaluru, AI ML and open source" width="100%">
+## The wanderer
 
 > Building useful software at the intersection of AI, security, developer tools, and independent research. Computer Science diploma student at M. S. Ramaiah Polytechnic.
 
-<img src="assets/project-archive.gif" alt="Animated terminal directory scanning five projects: Sentinel, Bedrock, Vakil AI, MESH and OpenConnect" width="100%">
+## The forge
 
 | System | Artifact notes | Source |
 |:---|:---|:---|
@@ -25,7 +20,7 @@
 | `04 / mesh` | Decentralized coordination and task infrastructure for AI agents | [Explore ↗](https://github.com/Kushalongit-hub?tab=repositories&q=Mesh) |
 | `05 / openconnect` | Tools for remote development access and connectivity | [Explore ↗](https://github.com/Kushalongit-hub?tab=repositories&q=OpenConnect) |
 
-<img src="assets/research.gif" alt="Animated research log for spatial intelligence, mask-free image editing and agent systems" width="100%">
+## The study
 
 ```text
 $ cat research.notes
@@ -34,7 +29,7 @@ $ cat research.notes
   agent infrastructure   -> memory, execution policy and tool boundaries
 ```
 
-<img src="assets/toolkit.gif" alt="Animated terminal toolkit showing Python, Java, JavaScript, AI ML and infrastructure tools" width="100%">
+## The arsenal
 
 ```text
 ~/toolkit
@@ -44,7 +39,7 @@ $ cat research.notes
 └── infrastructure Docker / Linux / WSL / Git / MCP
 ```
 
-<img src="assets/contact.gif" alt="Animated terminal contact and uplink list" width="100%">
+## Summon signs
 
 <div align="center">
 
@@ -54,6 +49,6 @@ $ cat research.notes
 
 <br>
 
-<a href="https://kushalmanvekar.runs-on.dev/"><img src="assets/operator-signal.gif" alt="Animated terminal typing: building systems, breaking assumptions, learning in public" width="100%"></a>
+> `building systems / breaking assumptions / learning in public`
 
-<div align="center"><sub><code>the archive is never finished. ▌</code></sub></div>
+<div align="center"><sub><code>keep the flame alive.</code></sub></div>
