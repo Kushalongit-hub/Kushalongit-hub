@@ -14,11 +14,17 @@
 
 | System | Artifact notes | Source |
 |:---|:---|:---|
-| `01 / sentinel` | Local-first security tooling for developers and agent workflows | [Explore ↗](https://github.com/Kushalongit-hub/Sentinel) |
-| `02 / bedrock` | Portable, model-agnostic agent runtime with replaceable providers, memory and policy boundaries | [Explore ↗](https://github.com/Kushalongit-hub?tab=repositories&q=Bedrock) |
-| `03 / vakil-ai` | Open-source legal intelligence and retrieval for Indian law | [Explore ↗](https://github.com/Kushalongit-hub/Vakil-ai) |
-| `04 / mesh` | Decentralized coordination and task infrastructure for AI agents | [Explore ↗](https://github.com/Kushalongit-hub?tab=repositories&q=Mesh) |
-| `05 / openconnect` | Tools for remote development access and connectivity | [Explore ↗](https://github.com/Kushalongit-hub?tab=repositories&q=OpenConnect) |
+| `01 / sentinel` | Multi-language static analysis with deterministic rules, AST-aware matching, and optional LLM triage | [Explore ↗](https://github.com/Kushalongit-hub/Sentinel) |
+| `02 / bedrock` | Portable, model-agnostic AI runtime with tools, memory, policy, workflows, and evaluation | [Explore ↗](https://github.com/Kushalongit-hub/Bedrock) |
+| `03 / vakil-ai` | RAG-powered legal research and document drafting for Indian lawyers | [Explore ↗](https://github.com/Kushalongit-hub/Vakil-ai) |
+| `04 / mesh` | AI agent collaboration, payments, and verifiable reputation on Monad | [Explore ↗](https://github.com/Kushalongit-hub/Mesh) |
+| `05 / openconnect` | A portable development environment that lives in your pocket | [Explore ↗](https://github.com/Kushalongit-hub/OpenConnect) |
+| `06 / mute` | Training-free background preservation for mask-free image editing | [Explore ↗](https://github.com/Kushalongit-hub/MUTE-Mask-free-Unified-Token-Editing) |
+| `07 / 3d spatial grounding` | Research prototype for single-image 3D layouts using metric depth, supplied camera intrinsics, and optional VLM support judgments | [Explore ↗](https://github.com/Kushalongit-hub/VLM-Guided-3D-Spatial-Grounding-and-Scene-Dissection) |
+| `08 / rcm` | Local 3D racing for 1–4 players with phones as gyro steering wheels, split-screen, and offline play | [Explore ↗](https://github.com/Kushalongit-hub/RCM) |
+| `09 / try-on` | AI-powered virtual try-on for fashion and beauty, with photo uploads, camera capture, and multi-product layering | [Explore ↗](https://github.com/Kushalongit-hub/Try-On) |
+
+[Browse all public repositories ↗](https://github.com/Kushalongit-hub?tab=repositories)
 
 ## The study
 
